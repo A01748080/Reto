@@ -1,0 +1,189 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+}
+
+canvas {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.cont {
+    max-width: 120rem;
+    margin: 0 auto;
+}
+
+.sombra {
+    -webkit-box-shadow: 0px 5px 15px 0px rgba(84,84,84,0.5);
+    -moz-box-shadow: 0px 5px 15px 0px rgba(84,84,84,0.5);
+    box-shadow: 0px 5px 15px 0px rgba(84,84,84,0.5);
+    background-color: var(--blanco);
+    padding: 2rem;
+    border-radius: 1rem;
+    /* margin-top: 20rem; */
+}
+
+button, #boton {
+    background: #7037cd;
+    color: #1d0c20;
+    font-size: 15pt;
+    font-weight: bold;
+    width: 200px;
+    height: 30px;
+    border-radius: 100px;
+    font-family: Dela Gothic One;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+
+    button:hover, #boton:hover {
+        background: #644497;
+        font-family: Dela Gothic One;
+        transition: background 0.3s ease;
+        -webkit-transition: background 0.3s ease;
+        -moz-transition: background 0.3s ease;
+        -ms-transition: background 0.3s ease;
+        -o-transition: background 0.3s ease;
+    }
+
+a {
+    color: #1d0c20;
+    font-size: 15pt;
+    font-weight: bold;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    font-family: Dela Gothic One;
+    text-decoration: none;
+}
+
+table {
+    border: 5px solid #651f71;
+    width: 90%;
+    background: #506ee5;
+}
+
+tr, td {
+    border: 1px solid #651f71;
+}
+
+p {
+    background: #506ee5;
+    font-size: 20pt;
+    text-align: center;
+    color: #1d0c20;
+    font-weight: bold;
+    width: 90%;
+    border-radius: 7px;
+}
+
+.campo {
+    background: #7037cd;
+    color: white;
+    font-size: 14pt;
+    font-weight: bold;
+    border-radius: 7px;
+    text-align: center;
+}
+
+select {
+    background: #FFBA0F;
+    font-size: 15pt;
+    font-weight: bold;
+    color: #1d0c20;
+}
+
+.button {
+    background: #7037cd;
+    color: #ffffff;
+    font-size: 20pt;
+    font-weight: bold;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    font-family: Dela Gothic One;
+}
+
+h2 {
+    font-size: 25pt;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    box-sizing: border-box;
+}
+
+body {
+    background: #68b2f8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    font-family: Dela Gothic One;
+}
+
+.user_image {
+    background-image: url('user.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    width: 1000px;
+}
+
+.image-button {
+    display: inline-block;
+    border: none;
+    padding: 0;
+    margin: 0;
+    background: none;
+    cursor: pointer;
+}
+
+    .image-button img {
+        max-width: 100%;
+        height: auto;
+        vertical-align: middle;
+    }
+
+/*
+.color1 { #68b2f8 };
+.color2 { #506ee5 };
+.color3 { #7037cd };
+.color4 { #651f71 };
+.color5 { #1d0c20 };*/

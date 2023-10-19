@@ -1,0 +1,32 @@
+@{
+    Layout = null; // Anula el layout para esta vista
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Registro Alumno</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-verion="true" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+</head>
+<body>
+    <center>
+        <img src="~/imagenes/Quarky-removebg-preview.png" style="width: 20%; height: auto;">
+        <h2>Registro Alumno</h2>
+        <form action="/ContDatos/Registro_a" method="post">
+            <input type="text" id="Nombre" name="Nombre" placeholder="Nombre(s)" required><br>
+            <input type="text" id="AP" name="AP" placeholder="Apellido Paterno" required><br>
+            <input type="text" id="AM" name="AM" placeholder="Apellido Materno" required><br>
+            <input type="text" id="Correo" name="Correo" placeholder="Correo electronico" required><br>
+            <input type="text" id="Con_correo" name="Con_correo" placeholder="Confirma correo electronico" required><br>
+            <input type="text" id="contrasena" name="contraseña" placeholder="Contraseña" required><br>
+            <input type="text" id="Con_contr" name="Con_contr" placeholder="Confirma contraseña" required><br>
+            <input type="text" id="Grado" name="Grado" placeholder="Grado" required><br>
+            <input type="text" id="Grupo" name="Grupo" placeholder="Grupo" required><br><br>
+            <button type="submit" value="Enviar"><a>Registrarse</a></button>
+        </form>
+    </center>
+</body>
+<script src="~/js/site.js" asp-append-version="true"></script>
+</html>

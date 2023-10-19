@@ -1,0 +1,137 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = conexion_final
+build_property.RootNamespace = conexion_final
+build_property.ProjectDir = /Users/omaration/Desktop/conexion_final/conexion_final/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/omaration/Desktop/conexion_final/conexion_final
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Altas/Altas_alumnos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx0YXMvQWx0YXNfYWx1bW5vcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Altas/Altas_gr.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx0YXMvQWx0YXNfZ3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Altas/Altas_profesores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx0YXMvQWx0YXNfcHJvZmVzb3Jlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Bajas/Baja_alumno.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFqYXMvQmFqYV9hbHVtbm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Bajas/Baja_gr.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFqYXMvQmFqYV9nci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Bajas/Baja_profesor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFqYXMvQmFqYV9wcm9mZXNvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Calificaciones/Calificaciones_a.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FsaWZpY2FjaW9uZXMvQ2FsaWZpY2FjaW9uZXNfYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Clasificacion/Clasificacion_a.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xhc2lmaWNhY2lvbi9DbGFzaWZpY2FjaW9uX2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/ContDatos/Alta_e.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udERhdG9zL0FsdGFfZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/ContDatos/Alta_g.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udERhdG9zL0FsdGFfZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/ContDatos/Baja_e.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udERhdG9zL0JhamFfZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/ContDatos/Baja_g.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udERhdG9zL0JhamFfZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/ContDatos/Registro_f.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udERhdG9zL1JlZ2lzdHJvX2YuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/ContDatos/Registro_u.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udERhdG9zL1JlZ2lzdHJvX3UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Game/Juego_a.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZS9KdWVnb19hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/inicio_p.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvaW5pY2lvX3AuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Rp/Ra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUnAvUmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Rp/R_p.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUnAvUl9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Sesion/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VzaW9uL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Sesion/V_admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VzaW9uL1ZfYWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Sesion/V_alu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VzaW9uL1ZfYWx1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Sesion/V_profe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VzaW9uL1ZfcHJvZmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/Usuario/Grupo_calif.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9HcnVwb19jYWxpZi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/omaration/Desktop/conexion_final/conexion_final/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

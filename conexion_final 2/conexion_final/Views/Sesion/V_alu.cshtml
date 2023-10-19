@@ -1,0 +1,32 @@
+@{
+    Layout = null; // Anula el layout para esta vista
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Alumno</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-verion="true" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+
+
+</head>
+<body>
+    <center>
+        <button type="button" style="height: 105%;">
+            <img src="~/imagenes/VG_controler.png" style="width: 60%; height: auto;">
+            @Html.ActionLink("Iniciar Juego", "Juego_a", "Game")
+        </button>
+        <button type="button" style="height: 105%;">
+            <img src="~/imagenes/Score.png" style="width: 60%; height: auto;">
+            @Html.ActionLink("Calificaciones", "Calificaciones_a", "Calificaciones")
+        </button>
+        <button type="button" style="height: 105%;">
+            <img src="~/imagenes/leaderboard.png" style="width: 60%; height: auto;">
+            @Html.ActionLink("Clasificaciones", "Clasificacion_a", "Clasificacion")
+        </button>
+    </center>
+</body>
+<script src="~/js/site.js" asp-append-version="true"></script>
+</html>

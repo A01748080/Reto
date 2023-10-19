@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8jql87f0GMVK7h/bflWpA44Cu4G+FB3qvti9ZN+IA64+FOEi8w2QuNrcnddtca2r4tenXdO8C719yQhEqTdcJA==",
+  "success": true,
+  "projectFilePath": "/Users/omaration/Desktop/conexion_final/conexion_final/conexion_final.csproj",
+  "expectedPackageFiles": [
+    "/Users/omaration/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/omaration/.nuget/packages/npgsql/7.0.6/npgsql.7.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

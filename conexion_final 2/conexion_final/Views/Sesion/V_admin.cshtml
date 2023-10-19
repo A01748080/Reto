@@ -1,0 +1,29 @@
+
+
+@{
+    Layout = null; // Anula el layout para esta vista
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Admin</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-verion="true" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+
+</head>
+<body>
+    <center>
+        <button style="height: 105%; width: 20%;">@Html.ActionLink("Dar de alta alumno", "Altas_alumnos", "Altas")<img src="~/imagenes/sign_up.png" style="width: 30%; height: auto;"><br></button>
+        <button style="height: 105%; width: 20%;">@Html.ActionLink("Dar de alta profesor", "Altas_profesores", "Altas")<img src="~/imagenes/sign_up.png" style="width: 30%; height: auto;"><br></button>
+        <button style="height: 105%; width: 20%;">@Html.ActionLink("Dar de alta Grupo", "Altas_gr", "Altas")<img src="~/imagenes/sign_up.png" style="width: 30%; height: auto;"><br></button>
+        <button style="height: 105%; width: 20%;">@Html.ActionLink("Dar de baja Grupo", "Baja_gr", "Bajas")<img src="~/imagenes/unsubscribe.png" style="width: 30%; height: auto;"><br></button>
+        <br>
+        <br>
+        <button style="height: 105%; width: 20%;">@Html.ActionLink("Dar de baja alumno", "Baja_alumno", "Bajas")<img src="~/imagenes/unsubscribe.png" style="width: 30%; height: auto;"><br></button>
+        <button style="height: 105%; width: 20%;">@Html.ActionLink("Dar de baja profesor", "Baja_profesor", "Bajas")<img src="~/imagenes/unsubscribe.png" style="width: 30%; height: auto;"><br></button>
+    </center>
+</body>
+<script src="~/js/site.js" asp-append-version="true"></script>
+</html>

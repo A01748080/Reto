@@ -1,0 +1,79 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <PackageReference Include="Npgsql" Version="7.0.6" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Datos\" />
+    <None Remove="Views\Rp\" />
+    <None Remove="Views\Sesion\" />
+    <None Remove="Views\Usuario\" />
+    <None Remove="Views\Home\" />
+    <None Remove="Views\Shared\" />
+    <None Remove="Views\Altas\" />
+    <None Remove="Views\Bajas\" />
+    <None Remove="Views\ContDatos\" />
+    <None Remove="Views\Game\" />
+    <None Remove="Views\Calificaciones\" />
+    <None Remove="Views\Clasificacion\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Datos\" />
+    <Folder Include="wwwroot\Imagenes\" />
+    <Folder Include="Views\Usuario\" />
+    <Folder Include="Views\Home\" />
+    <Folder Include="Views\Rp\" />
+    <Folder Include="Views\Sesion\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="Views\Usuario\" />
+    <Folder Include="Views\Usuario\" />
+    <Folder Include="Views\Altas\" />
+    <Folder Include="Views\Bajas\" />
+    <Folder Include="Views\ContDatos\" />
+    <Folder Include="Views\Game\" />
+    <Folder Include="Views\Calificaciones\" />
+    <Folder Include="Views\Clasificacion\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Views\Usuario\Inicio.cshtml" />
+    <Content Remove="wwwroot\Imagenes\grupo.png" />
+    <Content Remove="wwwroot\Imagenes\leaderboard.png" />
+    <Content Remove="wwwroot\Imagenes\level.png" />
+    <Content Remove="wwwroot\Imagenes\Quarky-removebg-preview.png" />
+    <Content Remove="wwwroot\Imagenes\Return.png" />
+    <Content Remove="wwwroot\Imagenes\Score.png" />
+    <Content Remove="wwwroot\Imagenes\sign_up.png" />
+    <Content Remove="wwwroot\Imagenes\unsubscribe.png" />
+    <Content Remove="wwwroot\Imagenes\user.png" />
+    <Content Remove="wwwroot\Imagenes\VG_controler.png" />
+    <Content Remove="wwwroot\Imagenes\" />
+    <Content Remove="Views\i_sesion\V_admin.cshtml" />
+    <Content Remove="Views\Altas\Altas_a.cshtml" />
+    <Content Remove="Views\Altas\Altas_p.cshtml" />
+    <Content Remove="Views\Bajas\Bajas.cshtml" />
+    <Content Remove="Views\Sesion\V_alumno.cshtml" />
+    <Content Remove="Views\Sesion\V_prof.cshtml" />
+    <Content Remove="Views\Usuario\Juego.cshtml" />
+    <Content Remove="Views\Juego\Juego.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\Imagenes\grupo.png" />
+    <None Include="wwwroot\Imagenes\leaderboard.png" />
+    <None Include="wwwroot\Imagenes\level.png" />
+    <None Include="wwwroot\Imagenes\Quarky-removebg-preview.png" />
+    <None Include="wwwroot\Imagenes\Return.png" />
+    <None Include="wwwroot\Imagenes\Score.png" />
+    <None Include="wwwroot\Imagenes\sign_up.png" />
+    <None Include="wwwroot\Imagenes\unsubscribe.png" />
+    <None Include="wwwroot\Imagenes\user.png" />
+    <None Include="wwwroot\Imagenes\VG_controler.png" />
+  </ItemGroup>
+</Project>

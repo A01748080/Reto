@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{825630E3-ECB8-4A50-B487-79442379DE13}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.conexion__final PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="conexion_final/Views/inicio_p.cshtml">
+    <Files>
+      <File FileName="conexion_final/Views/Sesion/V_alu.cshtml" Line="11" Column="1" />
+      <File FileName="conexion_final/Controllers/JuegoController.cs" Line="17" Column="2" />
+      <File FileName="conexion_final/Views/Game/Juego_a.cshtml" Line="19" Column="1" />
+      <File FileName="conexion_final/Controllers/ClasificacionesController.cs" Line="19" Column="1" />
+      <File FileName="conexion_final/Controllers/CalificacionesController.cs" Line="14" Column="10" />
+      <File FileName="conexion_final/Views/Clasificacion/Clasificacion_a.cshtml" Line="25" Column="53" />
+      <File FileName="conexion_final/Controllers/AltasController.cs" Line="29" Column="1" />
+      <File FileName="conexion_final/Models/AdminModel.cs" Line="1" Column="1" />
+      <File FileName="conexion_final/Models/Alumnos.cs" Line="1" Column="1" />
+      <File FileName="conexion_final/Models/Profesores.cs" Line="1" Column="1" />
+      <File FileName="conexion_final/Models/UsuarioModel.cs" Line="1" Column="1" />
+      <File FileName="conexion_final/Views/Altas/Altas_alumnos.cshtml" Line="1" Column="1" />
+      <File FileName="conexion_final/Views/Altas/Altas_gr.cshtml" Line="1" Column="1" />
+      <File FileName="conexion_final/Views/Altas/Altas_profesores.cshtml" Line="1" Column="1" />
+      <File FileName="conexion_final/Views/Sesion/Error.cshtml" Line="18" Column="51" />
+      <File FileName="conexion_final/Views/Sesion/V_admin.cshtml" Line="1" Column="1" />
+      <File FileName="conexion_final/Views/Sesion/V_profe.cshtml" Line="1" Column="1" />
+      <File FileName="conexion_final/Views/Index.cshtml" Line="1" Column="1" />
+      <File FileName="conexion_final/Views/inicio_p.cshtml" Line="39" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="conexion_final" expanded="True">
+            <Node name="conexion_final" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="ContDatosController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Altas" expanded="True" />
+                <Node name="Clasificacion" expanded="True" />
+                <Node name="Game" expanded="True" />
+                <Node name="Sesion" expanded="True" />
+                <Node name="Usuario" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
